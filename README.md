@@ -1,5 +1,19 @@
 # hello-world 
 
+<!DOCTYPE html>
+<html>
+<body>
 
-Hello world my name is cristhian Ramirez nice to meet you. A little bit about myself: I am the third child of 4, I like to exercise, I currentlt go tp El centro Community College, however I plan to transfer to Texas A&M University at College Station in order for me to get a Bachelors Degree in Mechanical Engineering. 
+<h1>Cristhian Ramirez ITSE-1401-51400  </h1>
+<p>Hello World! My name is Cristhian Ramirez nice to met you :).</p>
 
+<p>This is a list of my Assigments.</p>
+
+<ul>
+  <li>My First Assigment</li>
+  <li>My Second Assigment</li>
+  <li>My Third Assigment</li>
+</ul>
+
+</body>
+</html>
